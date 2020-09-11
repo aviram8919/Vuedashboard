@@ -10,6 +10,10 @@ This project is made using Vue.js.Vue is a progressive framework for building us
 * VueApexChart = ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages
 * Pwa = A progressive web application is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.
 
+## Bonus Points
+* Created the web app using Vue.js. When I get to know i have to make ipl dashboard project using vue.js, i started learning it from http://vue.js.org/ and went through many tutorials which helps me to understand the basic concept of Vue. 
+*
+
 ## Project setup
 ```
 npm install
