@@ -5,7 +5,7 @@ This project is made using Vue.js.Vue is a progressive framework for building us
 * [Major libraries  used in the project](#libraries)
 * [Bonus Point](#Bonus-point)
 
-##Major Libraries/Frameworks 
+## Major Libraries/Frameworks 
 1> Vuetify = Vuetify is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications.
 2> VueApexChart = ApexCharts is a a free and open-source modern charting library that helps developers to create beautiful and interactive visualizations for web pages
 3> Pwa = A progressive web application is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.
