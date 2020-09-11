@@ -1,5 +1,6 @@
 
 module.exports = {
+  publicPath: '/Vuedashboard/',
   "transpileDependencies": [
     "vuetify"
   ],
