@@ -12,7 +12,7 @@ This project is made using Vue.js.Vue is a progressive framework for building us
 
 ## Bonus Points
 * Created the web app using Vue.js. When I get to know i have to make ipl dashboard project using vue.js, i started learning it from http://vue.js.org/ and went through many tutorials which helps me to understand the basic concept of Vue. 
-*
+
 
 ## Project setup
 ```
